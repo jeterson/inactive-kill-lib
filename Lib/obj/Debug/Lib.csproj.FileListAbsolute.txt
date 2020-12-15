@@ -1,0 +1,7 @@
+C:\Users\jeterson\Desktop\lib kill session\dll novo crk\Lib\Lib\bin\Debug\Lib.pdb
+C:\Users\jeterson\Desktop\lib kill session\dll novo crk\Lib\Lib\obj\Debug\Lib.Properties.Resources.resources
+C:\Users\jeterson\Desktop\lib kill session\dll novo crk\Lib\Lib\obj\Debug\Lib.csproj.GenerateResource.Cache
+C:\Users\jeterson\Desktop\lib kill session\dll novo crk\Lib\Lib\obj\Debug\Lib.pdb
+C:\Users\jeterson\Desktop\lib kill session\dll novo crk\Lib\Lib\bin\Debug\Lib.dll.config
+C:\Users\jeterson\Desktop\lib kill session\dll novo crk\Lib\Lib\bin\Debug\Lib.dll
+C:\Users\jeterson\Desktop\lib kill session\dll novo crk\Lib\Lib\obj\Debug\Lib.dll
